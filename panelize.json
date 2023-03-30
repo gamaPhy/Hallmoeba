@@ -1,0 +1,12 @@
+{
+    "layout": {
+        "cols": "5"
+    },
+    "tabs": {
+        "type": "full"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "prolong": "-0.5mm"
+    }
+}
