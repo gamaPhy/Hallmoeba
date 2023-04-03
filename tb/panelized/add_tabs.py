@@ -20,6 +20,6 @@ def kikitPostprocess(panel, args):
                 panel.addNPTHole(VECTOR2I(i.GetPosition().x + 19050000, i.GetPosition().y + 8740000), mmToNm(0.5))
     
     for r in range(0, rows):
-        y = 28.89 + r * 19.78
+        y = 28.905 + r * 19.81
         panel.appendBoard('../../tab/tab.kicad_pcb', vec(98.375, y), BOX2I(vec(0, 0), vec(100, 100)), shrink=True, tolerance=mmToNm(5), inheritDrc=False)
         panel.appendBoard('../../tab/tab.kicad_pcb', vec(103.375 + 19.05 * cols, y), BOX2I(vec(100, 0), vec(150, 100)), shrink=True, tolerance=mmToNm(5), inheritDrc=False)
