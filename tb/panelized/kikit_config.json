@@ -1,0 +1,20 @@
+{
+    "layout": {
+        "vspace": "2mm",
+        "rows": "4",
+        "cols": "5"
+    },
+    "source": {
+        "tolerance": "15mm"
+    },
+    "tabs": {
+        "type": "annotation"
+    },
+    "cuts": {
+        "type": "mousebites"
+    },
+    "post": {
+        "script": "add_tabs.py",
+        "scriptarg": "4, 5"
+    }
+}

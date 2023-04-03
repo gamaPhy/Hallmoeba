@@ -277,7 +277,7 @@
     (pad "1" thru_hole rect (at 0 0 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 9430722e-4eae-4c26-a9a8-4a45d53d5023))
   )
 
-  (gr_arc (start 83.455 69.85) (mid 83.808553 69.996447) (end 83.955 70.35)
+  (gr_arc (start 83.455 69.85) (mid 83.808554 69.996446) (end 83.955 70.35)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 07c4b66f-48d6-4998-8bac-e3041fabc0a3))
   (gr_line (start 83.455 69.85) (end 79.955 69.85)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 0f29cc93-3848-44b5-88e1-1cea96c7259d))
