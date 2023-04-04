@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "ffc3fdf_fffffffe",
+    "visible_layers": "ffc3ffb_fffffffe",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "he-sensor-breakout.kicad_prl",
+    "filename": "2u_stabilizer.kicad_prl",
     "version": 3
   },
   "project": {

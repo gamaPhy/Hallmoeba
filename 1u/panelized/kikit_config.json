@@ -1,14 +1,10 @@
 {
     "layout": {
-        "vspace": "2mm",
         "rows": "4",
         "cols": "5"
     },
-    "source": {
-        "tolerance": "15mm"
-    },
     "tabs": {
-        "type": "annotation"
+        "type": "full"
     },
     "cuts": {
         "type": "mousebites"
