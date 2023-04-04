@@ -7,7 +7,8 @@
         "type": "full"
     },
     "cuts": {
-        "type": "mousebites"
+        "type": "mousebites",
+        "prolong": "-0.4mm"
     },
     "post": {
         "script": "add_tabs.py",
