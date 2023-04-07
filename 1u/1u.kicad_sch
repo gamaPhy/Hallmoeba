@@ -791,7 +791,7 @@
     )
     (pin "1" (uuid 31f56e0b-c55e-4c11-a729-87f1227d1e04))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J4") (unit 1)
         )
@@ -817,7 +817,7 @@
     (pin "1" (uuid 1e02b1b8-ae0a-41c9-b439-fd52c817f661))
     (pin "2" (uuid f3d5eb62-1271-44e9-ae97-8113b76dfbd1))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "R1") (unit 1)
         )
@@ -843,7 +843,7 @@
     (pin "1" (uuid b3f8cf1b-007f-4a79-ac63-7249566b95a3))
     (pin "2" (uuid 4447e644-6dc5-4cef-9b51-58707f8f665c))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "C3") (unit 1)
         )
@@ -873,7 +873,7 @@
     )
     (pin "1" (uuid ea0690aa-13ad-4ba7-9d17-9b9cc8f2a2dd))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR016") (unit 1)
         )
@@ -898,7 +898,7 @@
     )
     (pin "1" (uuid a0eeebd3-868a-4def-8db5-d66b10b83c7a))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J12") (unit 1)
         )
@@ -923,7 +923,7 @@
     )
     (pin "1" (uuid 8827008b-10d6-4925-9918-1ebdfb7a5d08))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR07") (unit 1)
         )
@@ -948,7 +948,7 @@
     )
     (pin "1" (uuid 0719b971-2ecc-459e-96fe-51e2c68db444))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J14") (unit 1)
         )
@@ -973,7 +973,7 @@
     )
     (pin "1" (uuid 0e4e8ca5-30d0-4746-8a5e-347049e372ec))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR04") (unit 1)
         )
@@ -999,7 +999,7 @@
     (pin "1" (uuid e98457bc-1b6c-4e36-8412-bedcf2a026d7))
     (pin "2" (uuid 12ae2c19-dc13-41a8-891a-411adfc036f6))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "R2") (unit 1)
         )
@@ -1024,7 +1024,7 @@
     )
     (pin "1" (uuid af75730a-3f01-4c54-993d-b89709cfc7db))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR09") (unit 1)
         )
@@ -1049,7 +1049,7 @@
     )
     (pin "1" (uuid 4635dbf2-d8bf-4ea4-90da-d46236547580))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J6") (unit 1)
         )
@@ -1074,7 +1074,7 @@
     )
     (pin "1" (uuid 496436a9-16e5-4ee3-9737-e27eba38f0c2))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR011") (unit 1)
         )
@@ -1099,7 +1099,7 @@
     )
     (pin "1" (uuid 18af8626-41a2-4bf1-9191-1ea916b4581d))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J2") (unit 1)
         )
@@ -1124,7 +1124,7 @@
     )
     (pin "1" (uuid 3f6a6cc8-b17e-4304-92c2-acbabc5a4ca0))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR014") (unit 1)
         )
@@ -1149,7 +1149,7 @@
     )
     (pin "1" (uuid c002da93-305e-4e94-b347-3172652a8233))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR06") (unit 1)
         )
@@ -1174,7 +1174,7 @@
     )
     (pin "1" (uuid 1367a83e-82be-48dd-82fd-565b37e19fc4))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR02") (unit 1)
         )
@@ -1199,7 +1199,7 @@
     )
     (pin "1" (uuid 923e3a97-6429-428b-a0d7-c5e556a820e1))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J13") (unit 1)
         )
@@ -1224,7 +1224,7 @@
     )
     (pin "1" (uuid f061f1d4-243b-424e-8eab-317fbda2b67a))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR012") (unit 1)
         )
@@ -1249,7 +1249,7 @@
     )
     (pin "1" (uuid b1414dba-253d-40f5-bdf0-19f776ed50a2))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR03") (unit 1)
         )
@@ -1274,7 +1274,7 @@
     )
     (pin "1" (uuid faf644ef-6f68-4517-8f5a-4a697f9ffcfb))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J3") (unit 1)
         )
@@ -1299,7 +1299,7 @@
     )
     (pin "1" (uuid 722f1569-b1b5-4207-b4dd-876b94fe6fde))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR05") (unit 1)
         )
@@ -1324,7 +1324,7 @@
     )
     (pin "1" (uuid fcb946e9-a77a-4de5-88ae-e169958adf97))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR013") (unit 1)
         )
@@ -1349,7 +1349,7 @@
     )
     (pin "1" (uuid 0280b084-8f1a-4fd4-a7c6-e098071c22e1))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J1") (unit 1)
         )
@@ -1374,7 +1374,7 @@
     )
     (pin "1" (uuid 86518abc-a409-4b6a-8ce0-aa6d915db64f))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J8") (unit 1)
         )
@@ -1400,7 +1400,7 @@
     (pin "1" (uuid 6c77c63e-7536-4d06-aec7-64da61d1cd2f))
     (pin "2" (uuid ace16a01-e38c-4bc8-93b0-8ae87bc72f12))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "C4") (unit 1)
         )
@@ -1430,7 +1430,7 @@
     )
     (pin "1" (uuid 8ff7ba9b-a9ef-425b-ad78-3bc36a13fb92))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J5") (unit 1)
         )
@@ -1456,7 +1456,7 @@
     (pin "1" (uuid 1d5d339c-a80e-46c2-9b56-7116979519de))
     (pin "2" (uuid 1144f35a-a3d0-4f13-9619-e4d49848bfa1))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "R3") (unit 1)
         )
@@ -1481,7 +1481,7 @@
     )
     (pin "1" (uuid 042be7cd-04f2-404e-bc0d-126886db1d5a))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR010") (unit 1)
         )
@@ -1506,7 +1506,7 @@
     )
     (pin "1" (uuid 38e6605b-3ce8-4dc3-bd95-c76faca4b7ca))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR015") (unit 1)
         )
@@ -1531,7 +1531,7 @@
     )
     (pin "1" (uuid 3329133e-f6db-4a64-a0ba-05d7fca0d4f4))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J7") (unit 1)
         )
@@ -1548,7 +1548,7 @@
     (property "Value" "SK6812MINI-E" (at 72.39 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "prettylib:SK6812_mini_e_flipable" (at 66.04 101.6 0)
+    (property "Footprint" "prettylib:SK6812MINI_E" (at 66.04 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "" (at 67.31 103.505 0)
@@ -1559,7 +1559,7 @@
     (pin "3" (uuid b903b848-ab6a-46f2-a0d4-fbd110bc5913))
     (pin "4" (uuid a94fef32-9b22-45d1-9397-30c925be8e45))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "D1") (unit 1)
         )
@@ -1586,7 +1586,7 @@
     (pin "2" (uuid 12fe482e-ed42-4523-a5ba-81cb1e82e624))
     (pin "3" (uuid 4180a2d4-1aaf-4206-bc58-9f3a9571ee2d))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "U1") (unit 1)
         )
@@ -1621,7 +1621,7 @@
     )
     (pin "1" (uuid c1bcaae6-87fa-43d9-95de-96e50ec671c7))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR01") (unit 1)
         )
@@ -1646,7 +1646,7 @@
     )
     (pin "1" (uuid 42891e9b-d14c-4573-b38f-abd5792ff986))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J10") (unit 1)
         )
@@ -1671,7 +1671,7 @@
     )
     (pin "1" (uuid 7e652d44-c7cb-4476-9eed-02214c254306))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J11") (unit 1)
         )
@@ -1696,7 +1696,7 @@
     )
     (pin "1" (uuid b25fa23d-273c-4e58-918a-b8de9264b866))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "#PWR08") (unit 1)
         )
@@ -1722,7 +1722,7 @@
     (pin "1" (uuid 5280d7e1-3f7e-4126-8405-59d5389e85b6))
     (pin "2" (uuid b12afc9d-0029-45c0-8534-efcf1c9bc857))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "C2") (unit 1)
         )
@@ -1753,7 +1753,7 @@
     (pin "1" (uuid 739fb91c-463e-4e1a-ad5b-7b424c4f0268))
     (pin "2" (uuid 683f7449-d229-4775-8100-9e3ce393b406))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "C1") (unit 1)
         )
@@ -1783,7 +1783,7 @@
     )
     (pin "1" (uuid 3d48c5cf-8b0b-425a-a97b-d27585be5f48))
     (instances
-      (project "he-sensor-breakout"
+      (project "1u"
         (path "/1c4931b8-ce31-46e7-81b2-9cf79bd80c14"
           (reference "J9") (unit 1)
         )
