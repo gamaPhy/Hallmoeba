@@ -509,7 +509,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "he-sensor-breakout.kicad_pro",
+    "filename": "1u.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -545,8 +545,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "1u.step",
+      "vrml": "3d/1u.wrl"
     },
     "page_layout_descr_file": ""
   },

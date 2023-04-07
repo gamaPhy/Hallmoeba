@@ -184,7 +184,7 @@
       (net 3 "GNDD") (pintype "passive") (tstamp 0f834834-9319-4ac3-b25a-f971b165d729))
     (pad "2" smd roundrect (at 0.5975 0 90) (size 0.715 0.64) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 1 "GNDA") (pintype "passive") (tstamp 711dfa6d-6f5d-4a80-9d5e-8f028ee6b7c4))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -399,7 +399,7 @@
       (net 3 "GNDD") (pintype "passive") (tstamp 3e97ab92-ccf1-49b3-ade0-808bf4ef81b3))
     (pad "2" smd roundrect (at 0.5975 0 90) (size 0.715 0.64) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 1 "GNDA") (pintype "passive") (tstamp aba737d7-56ed-4ce5-bdc6-a45147d201a5))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -454,7 +454,7 @@
       (net 4 "VDD") (pintype "passive") (tstamp 00dde79d-23b7-4afb-9fff-12d09df7669e))
     (pad "2" smd roundrect (at 0.5975 0 90) (size 0.715 0.64) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 2 "VDDA") (pintype "passive") (tstamp fb46cc3d-aa2f-402b-96fc-7455531b0bef))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -826,7 +826,7 @@
       (net 3 "GNDD") (pinfunction "VSS") (pintype "power_in") (zone_connect 2) (thermal_bridge_angle 45) (tstamp c78ed130-5354-4b41-85e7-e60bf76ea081))
     (pad "4" smd roundrect (at 2.5 -0.875) (size 1.6 0.85) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1176470588)
       (net 5 "LED_IN") (pinfunction "DIN") (pintype "input") (zone_connect 2) (thermal_bridge_angle 45) (tstamp 93ea3541-2575-470a-86be-a015e60f1390))
-    (model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_SK6812MINI-E.step"
+    (model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_SK6812MINI-E.step" hide
       (offset (xyz 0 -5.6 -2.3))
       (scale (xyz 1.1 1.1 1))
       (rotate (xyz 0 180 180))

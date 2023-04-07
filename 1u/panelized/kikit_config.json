@@ -7,8 +7,8 @@
         "type": "full"
     },
     "cuts": {
-        "type": "mousebites",
-        "prolong": "-0.4mm"
+        "type": "vcuts",
+        "layer": "Edge.Cuts"
     },
     "post": {
         "script": "add_tabs.py",
