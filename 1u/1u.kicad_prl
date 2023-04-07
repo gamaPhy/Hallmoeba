@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 36,
-    "active_layer_preset": "no_fab",
+    "active_layer": 49,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "0001055_80000000",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "he-sensor-breakout.kicad_prl",
+    "filename": "1u.kicad_prl",
     "version": 3
   },
   "project": {

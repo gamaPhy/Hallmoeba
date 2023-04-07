@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "YAEMK")(type "Legacy")(uri "${KIPRJMOD}/lib/YAEMK.lib")(options "")(descr ""))
-)
