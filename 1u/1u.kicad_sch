@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Hallmoeba")
+    (comment 3 "Licensed under CERN-OHL-S v2 or later")
+    (comment 4 "Copyright 2023 gamaPhy")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x01_Pin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 2.54 0)

@@ -5,6 +5,12 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Hallmoeba")
+    (comment 3 "Licensed under CERN-OHL-S v2 or later")
+    (comment 4 "Copyright 2023 gamaPhy")
+  )
+
   (layers
     (0 "F.Cu" power)
     (31 "B.Cu" mixed)
