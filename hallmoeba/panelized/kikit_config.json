@@ -1,6 +1,6 @@
 {
     "layout": {
-        "rows": "4",
+        "rows": "10",
         "cols": "5"
     },
     "tabs": {
@@ -12,6 +12,6 @@
     },
     "post": {
         "script": "add_tabs.py",
-        "scriptarg": "4, 5"
+        "scriptarg": "10, 5"
     }
 }
