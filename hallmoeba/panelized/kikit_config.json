@@ -9,9 +9,5 @@
     "cuts": {
         "type": "vcuts",
         "layer": "Edge.Cuts"
-    },
-    "post": {
-        "script": "add_tabs.py",
-        "scriptarg": "10, 5"
     }
 }
