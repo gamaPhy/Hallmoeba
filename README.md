@@ -4,6 +4,8 @@ This repository contains assets for the Hallmoeba, a single-switch PCB for Gater
 
 Sold at https://gamaphy.com/products/hallmoeba
 
-## DIY Breadboard keypad made with Hallmoeba
+![Hallmoeba](/assets/hallmoeba.jpg)
 
+## DIY Breadboard analog keypad made with Hallmoeba
+![Breadboard 3k Keypad](/assets/hallmoeba_breadboard_3k_keypad.jpg)
 
