@@ -7,5 +7,5 @@ Sold at https://gamaphy.com/products/hallmoeba
 ![Hallmoeba](/assets/hallmoeba.jpg)
 
 ## DIY Breadboard analog keypad made with Hallmoeba
-![Breadboard 3k Keypad](/assets/hallmoeba_breadboard_3k_keypad.jpg)
 [Build guide](https://gamaphy.com/blogs/guides/breadboard-analog-keypad-with-rapid-trigger-build-guide)
+![Breadboard 3k Keypad](/assets/hallmoeba_breadboard_3k_keypad.jpg)
