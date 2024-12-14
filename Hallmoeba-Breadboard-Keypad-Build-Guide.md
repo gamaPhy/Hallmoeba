@@ -1,6 +1,6 @@
 # QMK-Powered Breadboard Keypad with Rapid Trigger \[RP2040 Build Guide\]
 
-![Assembled Hallmoeba Breadboard Keypad](assets/hallmoeba_breadboard_3k_keypad.jpg)
+![Assembled Hallmoeba Breadboard Keypad](assets/assets/hallmoeba_breadboard_3k_keypad.jpg)
 
 ### **Required Components:**
 
@@ -19,7 +19,7 @@
 
 ![breadboard analog keypad fritzing wiring diagram](assets/hallmoeba_breadboard_3k_keypad_bb.jpg)
 
-![rp pico pinout](rp-pico-pinout.png)  
+![rp pico pinout](assets/rp-pico-pinout.png)  
 
 ### **Firmware**
 
@@ -37,9 +37,9 @@ Source: [https://github.com/gamaPhy/qmk-keyboards/releases/tag/latest](https://
 
 1.  Download [qmk toolbox](https://github.com/qmk/qmk_toolbox/releases)
 2.  Start qmk toolbox, and open the HID Console 
-    ![hid console open](hid_console_open.jpg)
+    ![hid console open](assets/hid_console_open.jpg)
 3.  You should see debug messages in the HID console. 
-    ![hid console](hid_console.jpg)
+    ![hid console](assets/hid_console.jpg)
 
 ### **Configuration Instructions**
 
@@ -48,9 +48,9 @@ Source: [https://github.com/gamaPhy/qmk-keyboards/releases/tag/latest](https://
 2.  Download the following VIA draft file by right-clicking, and pressing "Save link as...":  
                   [https://raw.githubusercontent.com/gamaPhy/qmk-keyboards/main/release/freedom/3k/via/via.json](https://raw.githubusercontent.com/gamaPhy/qmk-keyboards/main/release/freedom/3k/via/via.json)
 3.  Navigate to the "design" tab (paintbrush icon) of the VIA webapp, and load the following via draft file. After loading the draft file, the menu should look like this:  
-                                    ![via design tab](via-screenshot.jpg)  
+                                    ![via design tab](assets/via-screenshot.jpg)  
 4.  Navigate to the "Configure" tab and select the IC icon in the bottom left to change actuation settings. (_There may be more settings present for you if the \`via.json\` was updated since the creation of these instructions_)  
-                                    ![via actuation settings](via-actuation-settings.jpg)
+                                    ![via actuation settings](assets/via-actuation-settings.jpg)
 
 ### **Debugging**
 
