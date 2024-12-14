@@ -17,7 +17,7 @@
 
 ### **Wiring**
 
-![breadboard analog keypad fritzing wiring diagram](asset/hallmoeba_breadboard_3k_keypad_bb.jpg)
+![breadboard analog keypad fritzing wiring diagram](assets/hallmoeba_breadboard_3k_keypad_bb.jpg)
 
 ![rp pico pinout](rp-pico-pinout.png)  
 
