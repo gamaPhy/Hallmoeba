@@ -2,10 +2,7 @@
 
 This repository contains assets for the Hallmoeba, a single-switch PCB for Gateron's KS-20 Hall effect switch. It is also compatible with Wooting's Lekker switch, which is based on the KS-20.
 
-Sold at https://gamaphy.com/products/hallmoeba
-
 ![Hallmoeba](/assets/hallmoeba.jpg)
 
 ## DIY Breadboard analog keypad made with Hallmoeba
-[Build guide](https://gamaphy.com/blogs/guides/breadboard-analog-keypad-with-rapid-trigger-build-guide)
 ![Breadboard 3k Keypad](/assets/hallmoeba_breadboard_3k_keypad.jpg)
