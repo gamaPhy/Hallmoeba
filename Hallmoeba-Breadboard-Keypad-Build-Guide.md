@@ -17,10 +17,9 @@
 
 ### **Wiring**
 
-![breadboard analog keypad fritzing wiring diagram](./QMK-Powered Breadboard Keypad with Rapid Trigger [RP2040 Build Guide] – gampaPhy_files/hallmoeba_breadboard_3k_keypad_bb_1d9f7533-393d-4152-8edb-5361aeded4c1.jpg)
+![breadboard analog keypad fritzing wiring diagram](asset/hallmoeba_breadboard_3k_keypad_bb.jpg)
 
-![](./QMK-Powered Breadboard Keypad with Rapid Trigger [RP2040 Build Guide] – gampaPhy_files/Screenshot_2023-10-31_103904.png)  
-_RP2040 Pinout_
+![rp pico pinout](rp-pico-pinout.png)  
 
 ### **Firmware**
 
@@ -37,8 +36,10 @@ Source: [https://github.com/gamaPhy/qmk-keyboards/releases/tag/latest](https://
 ### **(Optional) Reading Keypad Debug Logs**
 
 1.  Download [qmk toolbox](https://github.com/qmk/qmk_toolbox/releases)
-2.  Start qmk toolbox, and open the HID Console![](./QMK-Powered Breadboard Keypad with Rapid Trigger [RP2040 Build Guide] – gampaPhy_files/hid_console_open.jpg)
-3.  You should see debug messages in the HID console. ![](./QMK-Powered Breadboard Keypad with Rapid Trigger [RP2040 Build Guide] – gampaPhy_files/hid_console.jpg)
+2.  Start qmk toolbox, and open the HID Console 
+    ![hid console open](hid_console_open.jpg)
+3.  You should see debug messages in the HID console. 
+    ![hid console](hid_console.jpg)
 
 ### **Configuration Instructions**
 
@@ -47,12 +48,12 @@ Source: [https://github.com/gamaPhy/qmk-keyboards/releases/tag/latest](https://
 2.  Download the following VIA draft file by right-clicking, and pressing "Save link as...":  
                   [https://raw.githubusercontent.com/gamaPhy/qmk-keyboards/main/release/freedom/3k/via/via.json](https://raw.githubusercontent.com/gamaPhy/qmk-keyboards/main/release/freedom/3k/via/via.json)
 3.  Navigate to the "design" tab (paintbrush icon) of the VIA webapp, and load the following via draft file. After loading the draft file, the menu should look like this:  
-                                    ![](./QMK-Powered Breadboard Keypad with Rapid Trigger [RP2040 Build Guide] – gampaPhy_files/via-screenshot.jpg)  
+                                    ![via design tab](via-screenshot.jpg)  
 4.  Navigate to the "Configure" tab and select the IC icon in the bottom left to change actuation settings. (_There may be more settings present for you if the \`via.json\` was updated since the creation of these instructions_)  
-                                                  ![](./QMK-Powered Breadboard Keypad with Rapid Trigger [RP2040 Build Guide] – gampaPhy_files/via-actuation-settings.jpg)
+                                    ![via actuation settings](via-actuation-settings.jpg)
 
 ### **Debugging**
 
 *   If the keypad is spamming keys even after calibration, the firmware may be corrupted. To fix this, follow [RasberryPi's instructions on resetting flash memory](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html#resetting-flash-memory).
-*   The hall effect sensors are sensitive to temperature drift. Temperature drift compensation has not been implemented, so if the ambient temperature changes by too much, the board may need to be recalibrated. To see how much drift has occurred, you can look at the HID console to see how much the \`min calibrated range\` differs from the \`current reading range\` while keys are not pressed:![](./QMK-Powered Breadboard Keypad with Rapid Trigger [RP2040 Build Guide] – gampaPhy_files/hid_console.jpg)
+*   The hall effect sensors are sensitive to temperature drift. Temperature drift compensation has not been implemented, so if the ambient temperature changes by too much, the board may need to be recalibrated. To see how much drift has occurred, you can look at the HID console to see how much the \`min calibrated range\` differs from the \`current reading range\` while keys are not pressed.
 *   If the temperature drift is still a problem, the [DRV5056A3QDBZR](https://www.ti.com/lit/ds/symlink/drv5056.pdf?ts=1709848637493&ref_url=https%253A%252F%252Fwww.google.com%252F) hall-effect sensor may be better because it has temperature drift compensation built in.
